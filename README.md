@@ -19,4 +19,4 @@ Este proyecto es una aplicación de escritorio desarrollada en Java Swing con Po
 ## **Demostración**
 
 ¡Mira el sistema en acción!  
-[![Ver video de demostración][![image.png](https://i.postimg.cc/63MhZDLQ/image.png)](https://postimg.cc/WFJrLYyR)(https://www.youtube.com/watch?v=zq-X28C17Co&t)
+[image.png](https://i.postimg.cc/63MhZDLQ/image.png)]([https://postimg.cc/WFJrLYyR](https://www.youtube.com/watch?v=zq-X28C17Co&t)
