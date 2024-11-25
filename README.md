@@ -20,3 +20,8 @@ Este proyecto es una aplicación de escritorio desarrollada en Java Swing con Po
 
 ¡Mira el sistema en acción!  
 [![image.png](https://i.postimg.cc/63MhZDLQ/image.png)](https://www.youtube.com/watch?v=zq-X28C17Co&t)
+
+## **Contacto**
+
+- **Email**: juanchilorenzo@gmail.com
+- **LinkedIn**: [Juan Carlos Lorenzo](https://www.linkedin.com/in/juan-carlos-lorenzo-35a33b210/)
